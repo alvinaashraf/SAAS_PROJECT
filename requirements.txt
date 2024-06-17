@@ -1,0 +1,10 @@
+#pytHon -m venv venv
+
+# cd venv\Scripts/activate
+
+
+# pip install pip --upgrade
+
+#django-admin startproject 
+
+# python manage.py runserver 
