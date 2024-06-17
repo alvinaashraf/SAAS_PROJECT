@@ -8,3 +8,6 @@
 #django-admin startproject 
 
 # python manage.py runserver 
+
+
+# deploy settings> allowedHost[".railway.add"]
