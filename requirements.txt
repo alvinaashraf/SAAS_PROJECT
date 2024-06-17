@@ -1,16 +1,2 @@
-#pytHon -m venv venv
-
-# cd venv\Scripts/activate
-
-
-# pip install pip --upgrade
-
-#django-admin startproject 
-
-# python manage.py runserver 
-
-
-# deploy settings> allowedHost[".railway.add"]
 
 Django>=5.0<5.1
-gunicorns
